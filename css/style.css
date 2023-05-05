@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: bisque;
+    
+}
+.container{
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+
+
+.aboutus{
+    margin-top: 3.5em;
+    height:30em;
+    width: 30em;
+    background-color: rgba(255, 228, 196, 0.407);
+
+
+}
+
+.index1{
+    height: 10em;
+}
