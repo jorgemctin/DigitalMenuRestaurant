@@ -9,14 +9,19 @@
     background:  rgba(189, 182, 182, 0.581);
 }
 
-.body{
+.menuspage{
+    background:  rgba(190, 26, 26, 0.581);
+    
+}
+
+/* .body{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
    
  
     
-}
+} */
 /* .textsmall{
     font-size: 0.1em;
 } */
