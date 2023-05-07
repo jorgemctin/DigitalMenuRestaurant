@@ -5,31 +5,6 @@
     
     
 }
-/* .mainpage{
-    background:  rgba(189, 182, 182, 0.581);
-} */
-
-/* .menuspage{
-    background:  rgba(190, 26, 26, 0.581);
-    
-} */
-
-/* a {
-    text-decoration: none;
-    color: black;
-  } */
-
-/* .body{
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden;
-   
- 
-    
-} */
-/* .textsmall{
-    font-size: 0.1em;
-} */
 
 .sfam{
     width: 100%;
@@ -46,42 +21,3 @@
     
 
 }
-
-/* .logo{
-    display: flex;
-
-    border-radius: 2em;
-} */
-
-/* .pics1{
-  
-    margin-top: 1.50em;
-
-    background-color:  rgba(129, 122, 122, 0.422);
-   
-    
-} */
-
-/* .aboutus{
-    height:20em;
-    width: 100%;
-    background-color: rgba(129, 122, 122, 0.422);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-} */
-
-
-
-
-/* .intro{
-    height:13em;
-    width: 32em;
-    background-color: rgba(163, 199, 199, 0.384);
-    font-size:x-large;
-    border-radius: 2em;
-    text-align: center;
-    
- 
-} */
