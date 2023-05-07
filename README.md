@@ -1,9 +1,9 @@
 
 ### Proyecto 2 - Carta Restaurante Digital (Street Food)
 
-![consola](./img/logo1.png)
+![logo1](./img/logo1.png)
 
-Se crea un diseño muy visual para el usuario. 
+Se crea un diseño muy visual para el usuario.
 
 #### Tecnologías utilizadas:
 
@@ -14,23 +14,23 @@ Se crea un diseño muy visual para el usuario.
 
 #### Uso:
 
-![play](./img/menu.png)
+![menu](./img/menu.png)
 
 Cuenta con un menú en la parte superior derecha que cuenta con 3 botones (Inicio, Carta, Contacto).
 
-![start](./img/reseñas.png)
+![reseñas](./img/reseñas.png)
 
 En la página principal, encontrará información sobre el local y reseñas de algunos clientes para generar confianza.
 
-![start](./img/carta1.png)
+![carta1](./img/carta1.png)
 
 En el apartado de Carta podrá ver todo el menú disponible.
 
-![start](./img/contacto.png)
+![contacto](./img/contacto.png)
 
 La ventana de contacto podrá realizar la reserva.
 
-![start](./img/reserva.png)
+![reserva](./img/reserva.png)
 
 Una vez confirmada la reserva recibe la confirmación y podrá acceder a las páginas anteriores en caso de que lo requiera.
 
