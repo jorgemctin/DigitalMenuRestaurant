@@ -1,29 +1,50 @@
 
 ### Proyecto 2 - Carta Restaurante Digital (Street Food)
 
-![consola](./img/consola.png)
+![consola](./img/logo1.png)
+
+Se crea un diseño muy visual para el usuario. 
 
 #### Tecnologías utilizadas:
 
++ BOOTSTRAP.
 + HTML.
 + CSS.
-+ Javascript (básico).
+
 
 #### Uso:
 
-![play](./img/play.png)
+![play](./img/menu.png)
 
-Se le da efectos de movilidad con CSS a los botones frontales y joysticks junto con un diseño responsive.
+Cuenta con un menú en la parte superior derecha que cuenta con 3 botones (Inicio, Carta, Contacto).
 
-![start](./img/start.png)
+![start](./img/reseñas.png)
 
-Para una interacción más dinámica con el usuario se utiliza JavaScript que al presionar el botón START se active y desactive la pantalla con la imagen intro del juego Mobile Leyends.
+En la página principal, encontrará información sobre el local y reseñas de algunos clientes para generar confianza.
+
+![start](./img/carta1.png)
+
+En el apartado de Carta podrá ver todo el menú disponible.
+
+![start](./img/contacto.png)
+
+La ventana de contacto podrá realizar la reserva.
+
+![start](./img/reserva.png)
+
+Una vez confirmada la reserva recibe la confirmación y podrá acceder a las páginas anteriores en caso de que lo requiera.
 
 #### Licencia y Copyright:
 
-La consola Anbernic RG552 es propiedad de Shenzhen YangLiMing Electronic Technology Co.
+Se han obtenido fotos e ideas de comida de varias páginas web, entre ellas estan:
 
-La imagen representada al presionar el botón START es propiedad de Moonton.
++ www.justeat.com
++ www.pequerecetas.com
++ www.tastingtable.com
++ www.freepik.es
++ www.recetasderechupete.com
++ www.nestlecocina.es
++ www.lavanguardia.com
 
 ##### Autor:
 

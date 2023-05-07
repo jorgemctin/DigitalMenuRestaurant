@@ -34,11 +34,12 @@
 .sfam{
     width: 100%;
     height: 15em;
-    background:  rgba(129, 122, 122, 0.422);
+    background:  rgba(83, 80, 80, 0.999);
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 2em;
+    border-radius: 0 0 3em 3em;
+   
 
    
   
