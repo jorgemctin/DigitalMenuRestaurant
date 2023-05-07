@@ -36,7 +36,7 @@ Una vez confirmada la reserva recibe la confirmación y podrá acceder a las pá
 
 #### Licencia y Copyright:
 
-Se han obtenido fotos e ideas de comida de varias páginas web, entre ellas estan:
+Se han obtenido fotos e ideas de comida en varias páginas web, entre ellas estan:
 
 + www.justeat.com
 + www.pequerecetas.com
