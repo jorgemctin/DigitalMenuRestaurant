@@ -3,8 +3,6 @@
 
 ![logo1](./img/logo1.png)
 
-Se crea un diseño muy visual para el usuario.
-
 #### Tecnologías utilizadas:
 
 + BOOTSTRAP.
